@@ -1,0 +1,15 @@
+// Your styles
+
+body {
+  background: rgb(68, 68, 68);
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+canvas {
+  height: -webkit-fill-available;
+  border: solid 3px #13bb85;
+  background-color: #20583cc4;
+}
